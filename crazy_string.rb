@@ -6,4 +6,4 @@ def crazy_strings(a,b)
   a + " " + b
 end
 
-
+puts "ARE".reverse
